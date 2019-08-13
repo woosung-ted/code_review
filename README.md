@@ -1,8 +1,14 @@
-# code_review
-comment added
+# Project 1
+---
+## Files
+- `priority_queue.cc`, `priority_queue.h` : Class templatePriorityQueue source code
+- `main.cc` : Usage for templatePriorityQueue class
+- `priority_queue_test.cc` : Unittest code for templatePriorityQueue class using GTest library
 
-# updated
-updated at 10:23 13 AUG 2019
+## Install
 
-# commit test
-done
+```
+# cmake CMakeLists.txt
+# make
+# ./main
+```
